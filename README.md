@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=famous077" alt="famous077" /></a> </p>
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Java, Python, HTML, CSS**
+- 💬 Ask me about **Java, Python, JS, HTML, CSS**
 
 - 📫 How to reach me **famousrajbhatt@gmail.com**
 
