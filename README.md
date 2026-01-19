@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Java, Python, JS, HTML, CSS**
+- 💬 Ask me about **Java, Python, JS**
 
 - 📫 How to reach me **famousrajbhatt@gmail.com**
 
