@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <h1 align="center"> I'm Famous Raj Bhat</h1>
-<h3 align="center">Aspiring AI/ML Engineer</h3>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
