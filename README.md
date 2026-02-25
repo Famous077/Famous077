@@ -14,7 +14,7 @@
 ```diff
 + Building scalable systems and creative web experiences
 + Exploring Rust performance engineering
-+ Python for data, automation & intelligent tooling
++ Python for data, ML model, automation & intelligent tooling
 ! Obsessed with clean architecture and speed
 ```
 
@@ -54,8 +54,8 @@
 | -------------------------- | ---------------------------------------------------------- |
 | ⚡ **Performance Engine**   | Rust-based system focused on speed & memory efficiency     |
 | 🌐 **Full-Stack Platform** | Scalable React + Node production architecture              |
-| 🤖 **Automation Lab**      | Python tools for scraping, analytics & workflow automation |
-
+| 🤖 **Automation Lab**      | Python tools for scraping, analytics, ML model & workflow automation |
+| **Open Source Contributor**   | 20+ meaning full contributions |
 ---
 
 ## 📈 Bounty & Stats
@@ -77,7 +77,12 @@
   <a href="https://www.topcoder.com/members/44600">TopCoder</a>
 </p>
 
----
+<div align= "center">
+    <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pjdGV2bnQ2Z2VsNHBoYzJrdGtjcWgwaHF2dGt1YWZuaXFkd3NyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tIZUToOMEFGM0/giphy.gif' />
+
+    <h1> LET's GO </h1> 
+</div>
+
 
 <p align="center">
   <i>"Inherited Will. The Flow of Time. The Dreams of People. These can never be stopped."</i>
