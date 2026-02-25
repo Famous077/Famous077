@@ -3,7 +3,7 @@
 <h3 align="center">“The One Chasing the Impossible Horizon”</h3>
 
 <div align="center">
-    <img src='https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif' /> 
+    <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNuNDFrdHd0emZ4eWN3ODlsdWs3OTJ2enpwa3NkbXN0Y3d6M3hwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rz24pRStq8KaEwz9c6/giphy.gif' /> 
 </div>
 
 <!-- ======================= HERO ======================= -->
