@@ -7,10 +7,6 @@
 </div>
 
 <!-- ======================= HERO ======================= -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN3cDN1cHk1c2J4bHhjcGlhdjR3NjZkN3M5b2U1eXhnd2tnd3N6aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tuCFp8rod0x3O/giphy.gif" width="300"/>
-</p>
-
 ---
 
 ## 🌊 About Me
