@@ -86,8 +86,8 @@
   <a href="https://linkedin.com">LinkedIn</a> •
   <a href="https://instagram.com">Instagram</a> •
   <a href="https://www.topcoder.com/members/44600">TopCoder</a>
-📫 **Email:** [famousrajbhatt@gmail.com](mailto:famousrajbhatt@gmail.com)
 </p>
+📫 **Email:** [famousrajbhatt@gmail.com](mailto:famousrajbhatt@gmail.com)
 
 
 
