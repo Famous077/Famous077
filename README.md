@@ -73,7 +73,6 @@
     LET'S GO 
 </div>
 
-📫 **Email:** [famousrajbhatt@gmail.com](mailto:famousrajbhatt@gmail.com)
 <p align="center">
   <i>"Inherited Will. The Flow of Time. The Dreams of People. These can never be stopped."</i>
 </p>
@@ -83,6 +82,7 @@
   <a href="https://linkedin.com">LinkedIn</a> •
   <a href="https://instagram.com">Instagram</a> •
   <a href="https://www.topcoder.com/members/44600">TopCoder</a>
+📫 **Email:** [famousrajbhatt@gmail.com](mailto:famousrajbhatt@gmail.com)
 </p>
 
 
