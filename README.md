@@ -3,8 +3,7 @@
 <h3 align="center">“The One Chasing the Impossible Horizon”</h3>
 
 <div align="center">
-  https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif╚ 
-
+    <img src='https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif' /> 
 </div>
 
 - 🌱 I’m currently learning **Rust, Python Libraries**
