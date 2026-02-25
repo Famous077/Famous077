@@ -70,7 +70,7 @@
 
 ---
 
-## 🧭 “Direction over comfort.”
+## 💠 “I build. I break. I rebuild better.”
 <div align= "center">
     <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pjdGV2bnQ2Z2VsNHBoYzJrdGtjcWgwaHF2dGt1YWZuaXFkd3NyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tIZUToOMEFGM0/giphy.gif' />
 </div>
