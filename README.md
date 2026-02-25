@@ -50,13 +50,17 @@
 
 ## 🗺️ Featured Adventures (Projects)
 
-| Arc                        | Description                                                |
-| -------------------------- | ---------------------------------------------------------- |
-| ⚡ **Performance Engine**   | Rust-based system focused on speed & memory efficiency     |
-| 🌐 **Full-Stack Platform** | Scalable React + Node production architecture              |
-| 🤖 **Automation Lab**      | Python tools for scraping, analytics, ML model & workflow automation |
-| **Open Source Contributor**   | 20+ meaning full contributions |
+## 🗺️ Featured Adventures (Projects)
+
+| Arc                                                                                                                                                  | Description                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| ⚡ **Performance Engine**                                                                                                                             | Rust-based system focused on speed & memory efficiency                                         |
+| 🌐 **Full-Stack Platform**                                                                                                                           | Scalable React + Node production architecture                                                  |
+| 🤖 **Automation Lab**                                                                                                                                | Python tools for scraping, analytics, ML models & workflow automation                          |
+| 🧩 **Open Source Contributor** <img src="https://img.shields.io/badge/Open%20Source-20%2B%20Contributions-1E90FF?style=for-the-badge&logo=github" /> | Actively contributed meaningful fixes, improvements, and features across multiple repositories |
+
 ---
+
 
 ## 📈 Bounty & Stats
 
