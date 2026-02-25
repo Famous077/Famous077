@@ -67,8 +67,16 @@
 ---
 
 ## 📡 Transmission Den Den Mushi
+<div align= "center">
+    <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pjdGV2bnQ2Z2VsNHBoYzJrdGtjcWgwaHF2dGt1YWZuaXFkd3NyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tIZUToOMEFGM0/giphy.gif' />
+    
+    LET'S GO 
+</div>
 
 📫 **Email:** [famousrajbhatt@gmail.com](mailto:famousrajbhatt@gmail.com)
+<p align="center">
+  <i>"Inherited Will. The Flow of Time. The Dreams of People. These can never be stopped."</i>
+</p>
 
 <p align="center">
   <a href="https://twitter.com/@bhat99403">Twitter</a> •
@@ -77,16 +85,8 @@
   <a href="https://www.topcoder.com/members/44600">TopCoder</a>
 </p>
 
-<div align= "center">
-    <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pjdGV2bnQ2Z2VsNHBoYzJrdGtjcWgwaHF2dGt1YWZuaXFkd3NyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tIZUToOMEFGM0/giphy.gif' />
-
-    <h1> LET's GO </h1> 
-</div>
 
 
-<p align="center">
-  <i>"Inherited Will. The Flow of Time. The Dreams of People. These can never be stopped."</i>
-</p>
 
 
 
