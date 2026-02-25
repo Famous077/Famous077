@@ -1,14 +1,7 @@
 ## Hi there 👋
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=famous077&label=Profile%20views&color=0e75b6&style=flat" alt="famous077" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=famous077" alt="famous077" /></a> </p>
 <h1 align="center">I'm Famous Raj Bhat</h1>
 <h3 align="center">“The One Chasing the Impossible Horizon”</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=famous077&label=Profile%20views&color=0e75b6&style=flat" alt="famous077" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=famous077" alt="famous077" /></a> </p>
 <div align="center">
   ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
