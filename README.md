@@ -50,8 +50,6 @@
 
 ## 🗺️ Featured Adventures (Projects)
 
-## 🗺️ Featured Adventures (Projects)
-
 | Arc                                                                                                                                                  | Description                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | ⚡ **Performance Engine**                                                                                                                             | Rust-based system focused on speed & memory efficiency                                         |
