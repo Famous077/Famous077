@@ -72,8 +72,8 @@
 
 <p align="center">
   <a href="https://twitter.com/@bhat99403">Twitter</a> •
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/famous-raj-bhat-36286a2b3/)">LinkedIn</a> •
-  <a href="[https://instagram.com](https://www.instagram.com/femas.bhatt/?hl=en)">Instagram</a> •
+  <a href="https://www.linkedin.com/in/famous-raj-bhat-36286a2b3/">LinkedIn</a> •
+  <a href="https://www.instagram.com/femas.bhatt/?hl=en">Instagram</a> •
   <a href="https://www.topcoder.com/members/44600">TopCoder</a>
 </p>
 <br> 
