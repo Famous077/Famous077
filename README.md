@@ -9,18 +9,16 @@
 <!-- ======================= HERO ======================= -->
 ---
 
-## 🌊 About Me
+## About Me
 
-```diff
 + Building scalable systems and creative web experiences
 + Exploring Rust performance engineering
 + Python for data, ML model, automation & intelligent tooling
-! Obsessed with clean architecture and speed
-```
++ Obsessed with clean architecture and speed
 
 ---
 
-## ⚓ Current Voyage
+## Current Status
 
 * 🌱 Mastering **Rust systems programming**
 * 🧠 Advanced **Python libraries & automation**
@@ -28,7 +26,7 @@
 
 ---
 
-## 🏴‍☠️ Tech Arsenal
+## Tech Stacks
 
 ### 💠 Core
 
