@@ -30,11 +30,11 @@
 
 ### Core
 
-`Rust` `Python` `TypeScript` `C++` `JavaScript` 
+`Rust` `Python` `Go` `C++` `JavaScript` 
 
 ### Web & Systems
 
-`React` `Node.js` `Express` `Docker` `Kubernetes`
+`React` `Node.js` `Express` 
 
 ### Data & AI
 
@@ -42,8 +42,10 @@
 
 ### Design & DevOps
 
-`Figma` `Git` `Linux` `Jenkins`
+`Figma` `Git` `Linux` `Jenkins` `Docker` `Kubernetes`
 
+### DataBase
+`MySql` `Mongo`
 ---
 
 ## Featured Adventures (Projects)
