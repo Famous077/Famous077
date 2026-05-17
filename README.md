@@ -44,15 +44,13 @@
 
 `Figma` `Git` `Linux` `Jenkins` `Docker` `Kubernetes`
 
-### DataBase
-`MySql` `Mongo`
 ---
 
 ## Featured Adventures (Projects)
 
 | Arc                                                                                                                                                  | Description                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| ⚡ **Performance Engine**                                                                                                                             | Rust-based system focused on speed & memory efficiency                                         |
+| ⚡ **Performance Engine**                                                                                                                            | Rust-based system focused on speed & memory efficiency                                         |
 | 🌐 **Full-Stack Platform**                                                                                                                           | Scalable React + Node production architecture                                                  |
 | 🤖 **Automation Lab**                                                                                                                                | Python tools for scraping, analytics, ML models & workflow automation                          |
 | 🧩 **Open Source Contributor**  | Actively contributed meaningful fixes, improvements, and features across multiple repositories |
