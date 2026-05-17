@@ -20,33 +20,33 @@
 
 ## Current Status
 
-* 🌱 Mastering **Rust systems programming**
-* 🧠 Advanced **Python libraries & automation**
-* 🚀 Designing full-stack products with performance focus
+* Mastering **Rust systems programming**
+* Advanced **Python libraries & automation**
+* Designing full-stack products with performance focus
 
 ---
 
 ## Tech Stacks
 
-### 💠 Core
+### Core
 
 `Rust` `Python` `TypeScript` `C++` `JavaScript` 
 
-### 🌐 Web & Systems
+### Web & Systems
 
 `React` `Node.js` `Express` `Docker` `Kubernetes`
 
-### 📊 Data & AI
+### Data & AI
 
 `Pandas` `Scikit-Learn` `PyTorch` `numpy` `matplotlib`
 
-### 🎨 Design & DevOps
+### Design & DevOps
 
 `Figma` `Git` `Linux` `Jenkins`
 
 ---
 
-## 🗺️ Featured Adventures (Projects)
+## Featured Adventures (Projects)
 
 | Arc                                                                                                                                                  | Description                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
@@ -63,7 +63,7 @@
 </div>
 
 <p align="center">
-  <i>🔥 “Dreams don’t die — they evolve into the person brave enough to chase them.”</i>
+  <i> “Dreams don’t die — they evolve into the person brave enough to chase them.” </i>
 </p> 
 <br>
 <br> 
