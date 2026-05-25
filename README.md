@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">I'm Famous Raj Bhat</h1>
-<h3 align="center">"Full-Stack developer building scalable systems with AI proficient.”</h3>
+<h3 align="center">"Full-Stack developer building scalable systems.”</h3>
 
 <div align="center">
     <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNuNDFrdHd0emZ4eWN3ODlsdWs3OTJ2enpwa3NkbXN0Y3d6M3hwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rz24pRStq8KaEwz9c6/giphy.gif' /> 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=famous077" alt="famous077" /></a> </p>
 
-- 🌱 I’m currently learning **Go, Python Libraries**
+- 🌱 I’m currently getting proficient in **python, Python Libraries, go**
 
 - 📫 How to reach me **famousrajbhatt@gmail.com**
 
@@ -43,7 +43,7 @@
 </div>
 
 <p align="center">
-  <i> “Dreams don’t die — they evolve into the person brave enough to chase them.” </i>
+  <i> “Dreams don’t die - they evolve into the person brave enough to chase them.” </i>
 </p> 
 <br>
 <br> 
