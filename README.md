@@ -14,6 +14,17 @@
 
 - 📫 How to reach me **famousrajbhatt@gmail.com**
 
+- ## Featured Adventures (Projects)
+
+| Arc                                                                                                                                                  | Description                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| ⚡ **Performance Engine**                                                                                                                            | focused on speed & memory efficiency                                         |
+| 🌐 **Full-Stack Platform**                                                                                                                           | Scalable React + Node production architecture                                                  |
+| 🤖 **Automation Lab**                                                                                                                                | Python tools for scraping, analytics, ML models & workflow automation                          |
+| 🧩 **Open Source Contributor**  | Actively contributed meaningful fixes, improvements, and features across multiple repositories |
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@bhat99403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bhat99403" height="30" width="40" /></a>
@@ -34,16 +45,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=famous077&" alt="famous077" /></p>
 
-## Featured Adventures (Projects)
-
-| Arc                                                                                                                                                  | Description                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| ⚡ **Performance Engine**                                                                                                                            | Rust-based system focused on speed & memory efficiency                                         |
-| 🌐 **Full-Stack Platform**                                                                                                                           | Scalable React + Node production architecture                                                  |
-| 🤖 **Automation Lab**                                                                                                                                | Python tools for scraping, analytics, ML models & workflow automation                          |
-| 🧩 **Open Source Contributor**  | Actively contributed meaningful fixes, improvements, and features across multiple repositories |
-
----
 
 ## 💠 “I build. I break. I rebuild better.”
 <div align= "center">
@@ -63,7 +64,6 @@
   <a href="https://www.topcoder.com/members/44600">TopCoder</a>
 </p>
 <br> 
-📫 **Email:** [famousrajbhatt@gmail.com](mailto:famousrajbhatt@gmail.com)
 
 
 
