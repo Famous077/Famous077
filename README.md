@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=famous077" alt="famous077" /></a> </p>
 
-- 🌱 I’m currently getting proficient in <h1>Python, Python libraries, go<h1>
+- 🌱 I’m currently getting proficient in <h3>Python, Python libraries, go<h3>
 
 - 📫 How to reach me **famousrajbhatt@gmail.com**
 
