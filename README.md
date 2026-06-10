@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">I'm Famous Raj Bhat</h1>
-<h3 align="center">"Aspiring MlOps Engineer”</h3>
+<h3 align="center">"Aspiring MLOps Engineer”</h3>
 
 <div align="center">
     <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNuNDFrdHd0emZ4eWN3ODlsdWs3OTJ2enpwa3NkbXN0Y3d6M3hwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rz24pRStq8KaEwz9c6/giphy.gif' /> 
